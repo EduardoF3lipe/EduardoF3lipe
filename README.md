@@ -1,7 +1,8 @@
-### Olá, eu sou o Eduardo Felipe 👋
+# <div align="center"> Olá, eu sou o Eduardo Felipe 👋 </div>
+
 
 * 📚 Ciência da Computação
-* 💻 Atualmente estudando Front-end
+* 💻 Estudando Front-end
 
 ##
 
