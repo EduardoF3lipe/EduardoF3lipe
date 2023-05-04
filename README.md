@@ -1,7 +1,10 @@
-### Olá, Eu sou o Eduardo Felipe 👋
+### Hey there👋
+
+#### I'm Eduardo felipe 23 years old, studying computer science and learning programming.
+
 ##
 
-### technologies & tools
+### ⚒ technologies & tools
 ##
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white" target="_blank">
@@ -12,8 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">  
 </div>
 
-### Contact
 ##
+
+### 🙋 Contact
 
 <div align="left">
     <a href="mailto: edufelipe.231@hotmail.com" target="_blank">
@@ -28,9 +32,13 @@
   
 </div>  
 
-### Analytics
 ##
+
+### 🔥Analytics
+
   <div align="left">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoF3lipe&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true%22/">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoF3lipe&layout=compact&langs_count=7&theme=cobalt"/>
  </div>
+ 
+ 
