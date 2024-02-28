@@ -1,6 +1,6 @@
 ### Hey there👋
 
-#### I'm Eduardo felipe 23 years old, studying computer science and learning programming and looking for a job as a front end developer [internship]
+#### I'm Eduardo felipe 24 years old, studying computer science and learning programming.
 
 ##
 
