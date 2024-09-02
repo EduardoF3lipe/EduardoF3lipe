@@ -1,6 +1,5 @@
 ### Hey there👋
 
-#### I'm Eduardo felipe 24 years old, studying computer science and learning programming.
 
 ##
 
